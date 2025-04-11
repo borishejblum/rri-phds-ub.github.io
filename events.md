@@ -2,11 +2,11 @@
 layout: page
 title: Events
 ---
-- **November 7th-8th, 2024** - 3rd Datathon
+- **November 7th-8th, 2024** - [3rd Datathon 👉🌐](https://shiny-datathon-rri-24.apps.math.cnrs.fr/)
 - **July 2023** - Annual day
-- **November, 2023** - 2nd Datathon
+- **November, 2023** - [2nd Datathon 👉🌐](https://shiny-datathon-rri-23.apps.math.cnrs.fr/)
 - **December, 14th 2023** - Annual day
-- **2022** - 1st Datathon
+- **13 & 14 October 2022** - 1st Datathon
 - **2022** - Kick-off meeting
 
 
