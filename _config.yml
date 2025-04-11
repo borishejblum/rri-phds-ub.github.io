@@ -15,7 +15,7 @@ author: PHDS Bordeaux Network
 
 navbar-links:
     Members: "people"
-    Publications: https://hal.science/search/index?q=*&anrProjectReference_s=ANR-22-PESN-0003
+    Publications: https://hal.science/search/index?q=*&qa[funding_t][]=RRI+PHDS
     Software: "softwares"
     Events: "events"
 
