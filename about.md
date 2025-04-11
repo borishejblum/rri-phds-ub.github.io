@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RRI PHDS 
+title: Public Health Data Science Bordeaux Network 
 subtitle: Public Health Data Science Network from the University of Bordeaux
 permalink: /
 redirect_from:
@@ -10,11 +10,7 @@ redirect_from:
 
 <a href="https://www.u-bordeaux.fr/recherche/ambition-scientifique/reseaux-de-recherche-impulsion/PHDS"><img width="150" src="../assets/img/2022_BlocMarque_RRI_GB_RVB_PHDS.png" style="float: right; margin-left: 30px; clear:both;"/></a>
 
-SMATCH is a consortium (2023-2029) from the [PEPR Santé Numérique](https://www.inria.fr/fr/pepr-sante-numerique-projets) 
-(project n°22-PESN-0003) headed by INRIA-INSERM, part of the [France 2030 initiative](https://www.info.gouv.fr/grand-dossier/france-2030). 
-It gathers researchers from different institutions on the development of 
-*Statistical and AI based Methods for Advanced Clinical Trials CHallenges in Digital Health*.
-
+The ***Public Health Data Science Network*** from the *University of Bordeaux* is ...
 
 # General Presentation
 
