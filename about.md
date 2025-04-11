@@ -22,11 +22,12 @@ tackles the new methodological challenges of data science in public health.
 
 ## Partnered laboratories
 
-<a href="https://www.bordeaux-population-health.center/fr/" style="text-align: center"><img width="100" src="../assets/img/logo-bph.svg" style="margin-left: auto; margin-right: auto;"/></a> 
-<a href="https://www.inria.fr/fr/centre-inria-universite-bordeaux" style="text-align: center"><img width="100" src="../assets/img/LogoInria.png" style="margin-left: auto; margin-right: auto;"/></a>
-<a href="https://www.math.u-bordeaux.fr/fr/" style="text-align: center"><img width="100" src="../assets/img/imb-logo.svg" style="margin-left: auto; margin-right: auto;"/></a> 
-<a href="https://www.labri.fr/" style="text-align: center"><img width="100" src="../assets/img/labri-logo.png" style="margin-left: auto; margin-right: auto;"/></a>
-
+<div style="text-align: center">
+<a href="https://www.bordeaux-population-health.center/fr/"><img width="100" src="../assets/img/logo-bph.svg" style="margin-left: auto; margin-right: auto;"/></a> 
+<a href="https://www.inria.fr/fr/centre-inria-universite-bordeaux"><img width="100" src="../assets/img/LogoInria.png" style="margin-left: auto; margin-right: auto;"/></a>
+<a href="https://www.math.u-bordeaux.fr/fr/"><img width="100" src="../assets/img/imb-logo.svg" style="margin-left: auto; margin-right: auto;"/></a> 
+<a href="https://www.labri.fr/"><img width="100" src="../assets/img/labri-logo.png" style="margin-left: auto; margin-right: auto;"/></a>
+</div>
 
 <!--
 {% for post in site.wps %}
