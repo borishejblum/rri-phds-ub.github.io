@@ -6,7 +6,7 @@ title: Events
 - **July 2023** - Annual day
 - **November, 2023** - [2nd Datathon 👉🌐](https://shiny-datathon-rri-23.apps.math.cnrs.fr/)
 - **December, 14th 2023** - Annual day
-- **13 & 14 October 2022** - 1st Datathon
-- **2022** - Kick-off meeting
+- **October, 13^th^ & 14^^th^^ 2022** - 1st Datathon
+- **April, 7th 2022** - Kick-off meeting
 
 
