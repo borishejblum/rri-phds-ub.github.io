@@ -13,11 +13,18 @@ redirect_from:
 The ***Public Health Data Science Network*** from the *University of Bordeaux* 
 tackles the new methodological challenges of data science in public health.
 
-# General Presentation
+## University research departments involved
 
-<a href="https://www.u-bordeaux.fr/recherche/ambition-scientifique/reseaux-de-recherche-impulsion/PHDS"><img width="100" src="../assets/img/logo-bph.svg" style="clear:both;"/></a> <a href="https://www.u-bordeaux.fr/recherche/ambition-scientifique/reseaux-de-recherche-impulsion/PHDS"><img width="100" src="../assets/img/LogoInria.png" style="clear:both;"/></a>
-<a href=""><img width="100" src="../assets/img/imb-logo.svg" style="clear:both;"/></a> <a href=""><img width="100" src="../assets/img/labri-logo.png" style="clear:both;"/></a>
-BPH, Centre Inria de l'université de Bordeaux , IMB, LABRI
+ - [*Public Health*](https://sin.u-bordeaux.fr/) 
+ - [*Engineering and digital sciences*](https://santepublique.u-bordeaux.fr/)
+
+## Partnered Structures
+
+<a href="https://www.u-bordeaux.fr/recherche/ambition-scientifique/reseaux-de-recherche-impulsion/PHDS"><img width="100" src="../assets/img/logo-bph.svg" style="clear:both;"/></a> 
+<a href="https://www.inria.fr/fr/centre-inria-universite-bordeaux"><img width="100" src="../assets/img/LogoInria.png" style="clear:both;"/></a>
+<a href="https://www.math.u-bordeaux.fr/fr/"><img width="100" src="../assets/img/imb-logo.svg" style="clear:both;"/></a> 
+<a href="https://www.labri.fr/"><img width="100" src="../assets/img/labri-logo.png" style="clear:both;"/></a>
+
 <!--
 {% for post in site.wps %}
     {% include wps.html %}
