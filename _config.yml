@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: SMATCH
+title: Public Health Data Science Bordeaux Network
 
 # Your name to show in the footer
-author: SMATCH
+author: PHDS Bordeaux Network
 
 # --- List of links in the navigation bar --- #
 
@@ -41,7 +41,7 @@ social-network-links:
   #email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: smatch-pepr-sn/smatch-pepr-sn.github.io
+  github: borishejblum/rri-phds-ub.github.io
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
@@ -65,8 +65,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: SMATCH axis from the PEPR sante numerique
-
+rss-description: Public Health Data Science Network from the University of Bordeaux
 # --- General options --- #
 
 # Select which social network share links to show in posts
@@ -78,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://smatch-pepr-sn.github.io/"
+url-pretty: "https://rri-phds-ub.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
