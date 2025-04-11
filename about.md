@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.u-bordeaux.fr/recherche/ambition-scientifique/reseaux-de-recherche-impulsion/PHDS"><img width="150" src="../assets/img/2022_BlocMarque_RRI_GB_RVB_PHDS.png" style="float: right; margin-left: 30px; clear:both;"/></a>
+<a href="https://www.u-bordeaux.fr/recherche/ambition-scientifique/reseaux-de-recherche-impulsion/PHDS"><img width="450" src="../assets/img/2022_BlocMarque_RRI_GB_RVB_PHDS.png" style="float: center; margin-left: 30px; clear:both;"/></a>
 
 The ***Public Health Data Science Network*** from the *University of Bordeaux* is ...
 
