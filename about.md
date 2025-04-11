@@ -16,8 +16,8 @@ tackles the new methodological challenges of data science in public health.
 
 ### University research departments involved:
 
- - [*Public Health*](https://sin.u-bordeaux.fr/) 
- - [*Engineering and digital sciences*](https://santepublique.u-bordeaux.fr/)
+ - [*Public Health*](https://santepublique.u-bordeaux.fr/) 
+ - [*Engineering and digital sciences*](https://sin.u-bordeaux.fr/)
 
 
 ### Partnered laboratories:
