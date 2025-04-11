@@ -1,8 +1,8 @@
 # Adding and updating members
 
-Members are compiled automatically from the markdown files in [`_peoples`](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/tree/gh-pages/_peoples).
+Members are compiled automatically from the markdown files in [`_peoples`](https://github.com/rri-phds-ub/rri-phds-ub.github.io/tree/gh-pages/_peoples).
 
- - To add a new member, [create a new file in the `_peoples` folder](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/new/gh-pages/_peoples) and copy-paste the header below, before updating it accordingly:
+ - To add a new member, [create a new file in the `_peoples` folder](https://github.com/rri-phds-ub/rri-phds-ub.github.io/new/gh-pages/_peoples) and copy-paste the header below, before updating it accordingly:
    
         ---
         title: "Boris Hejblum"
@@ -21,25 +21,25 @@ Members are compiled automatically from the markdown files in [`_peoples`](https
 
     You can add more markdown text here.
 
-- To add a picture, [add an image in `assets/img/people/`](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/upload/gh-pages/assets/img/people), and update the
+- To add a picture, [add an image in `assets/img/people/`](https://github.com/rri-phds-ub/rri-phds-ub.github.io/upload/gh-pages/assets/img/people), and update the
   header above with its name
 
 # Adding publications
 
 We are use HAL to deposit publications and automatically create a publication list. 
-Make sure to adequatly identify the ANR funding for SMATCH (code **ANR-22-PESN-0003**) in 
+Make sure to adequatly identify the funding from the RRI PHDS (quote "RRI PHDS" in the funding metadata section in HAL) in 
 your publication/preprint deposit **metadata on *HAL***, and the reference will appear on the 
 website ~~magically~~ automatically.
 
 
 # Adding events
 
-Add a specific line describing the event in the markdown file in [`events.md`](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/edit/gh-pages/events.md).
+Add a specific line describing the event in the markdown file in [`events.md`](https://github.com/rri-phds-ub/rri-phds-ub.github.io/edit/gh-pages/events.md).
 
 
 # Adding softwares
 
-Add a specific line describing the software in the markdown file in [`softwares.md`](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/edit/gh-pages/softwares.md).
+Add a specific line describing the software in the markdown file in [`softwares.md`](https://github.com/rri-phds-ub/rri-phds-ub.github.io/edit/gh-pages/softwares.md).
 
 
 
@@ -58,11 +58,11 @@ To be noted:
 * Log into your github account and make sure the computer you are on has been listed through a ssh key
 * Clone the repo:
 
-`git clone git@github.com:smatch-pepr-sn/smatch.github.io.git`
+`git clone git@github.com:rri-phds-ub/rri-phds-ub.github.io.git`
 
 If you have an authentification error,  try using the https protocol
 
-`git clone https://github.com/smatch-pepr-sn/smatch.github.io.git`
+`git clone https://github.com/rri-phds-ub/rri-phds-ub.github.io.git`
 
 
 Now the fun can start!

@@ -14,13 +14,13 @@ redirect_from:
 The ***Public Health Data Science Network*** from the *University of Bordeaux* 
 tackles the new methodological challenges of data science in public health.
 
-## University research departments involved
+### University research departments involved:
 
  - [*Public Health*](https://sin.u-bordeaux.fr/) 
  - [*Engineering and digital sciences*](https://santepublique.u-bordeaux.fr/)
 
 
-## Partnered laboratories
+### Partnered laboratories:
 
 <div style="text-align: center">
 <a href="https://www.bordeaux-population-health.center/fr/"><img width="100" src="../assets/img/logo-bph.svg" style="margin-left: auto; margin-right: auto;"/></a> 
