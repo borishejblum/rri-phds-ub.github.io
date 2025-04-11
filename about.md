@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Public Health Data Science Bordeaux Network 
+title: RRI – PHDS
 subtitle: Public Health Data Science Network from the University of Bordeaux
 permalink: /
 redirect_from:
