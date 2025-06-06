@@ -10,8 +10,6 @@ title: Software
 
 - [***HIDeM***](https://github.com/arianebercu/HIDeM) is an `R` package dedicated to the estimation of illness-death models in the presence of interval-cenrored illness timing. The package includes notably functions for high-dimensional predictor selection using a regularization technique, and medation analysis using a counterfactual approach.
 
-- [***HIDeM***](https://github.com/arianebercu/HIDeM) is an `R` package dedicated to the estimation of illness-death models in the presence of interval-cenrored illness timing. The package includes notably functions for high-dimensional predictor selection using a regularization technique, and medation analysis using a counterfactual approach.
-
 
 
 
